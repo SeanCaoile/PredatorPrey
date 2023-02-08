@@ -14,7 +14,7 @@ A simple predator prey model that uses foxes and rabbits as the agents. The envi
 The rabbits will starve to death after `10` ticks, and the foxes will starve to death after `50` ticks. Both agents will have a `1/30` chance to create a new offspring, and have a turn and forward radius of `50`.
 
 ## Usage
-Click on `Setup` to generate the environment and agents. Press `Go` to start the program and it will stop at 500 ticks. To run the program indefinitely, press `Go 🔁`.
+Click on `Setup` to generate the environment and agents. Press `Go` to start the program and it will stop at 500 ticks. To run the program indefinitely, press `Go 🔁`. The sliders can be used to modify the configurations of the program.
 
 ## Authors
 - Caoile, Sean
