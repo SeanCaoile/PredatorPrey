@@ -17,10 +17,10 @@ The rabbits will starve to death after `10` ticks, and the foxes will starve to 
 Click on `Setup` to generate the environment and agents. Press `Go` to start the program and it will stop at 500 ticks. To run the program indefinitely, press `Go 🔁`.
 
 ## Authors
-Caoile, Sean
-Lim, Aurelius
-Tan, Gavin
-Yongco, Denzel
+- Caoile, Sean
+- Lim, Aurelius
+- Tan, Gavin
+- Yongco, Denzel
 
 ## Image
 <img src="predatorprey.png">
