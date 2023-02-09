@@ -27,4 +27,4 @@ In the model view, there is also a plot screen where the populations of both fox
 - Yongco, Denzel
 
 ## Image
-<img src="predatorprey.png">
+<img src="model-screenshot.jpg">
