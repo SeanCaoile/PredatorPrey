@@ -11,7 +11,7 @@ A simple predator prey model that uses foxes and rabbits as the agents. The envi
 | `Foxes` 	  | 50			|
 | `Rabbits`   | 50			|
 
-The rabbits will starve to death after `10` ticks if they cannot find grass to eat. They eat if they are standing on a green patch. If a grass patch is eaten, then the patch will turn black and will regrow after 100 ticks have passed. The foxes will starve to death after `50` ticks if they find no rabbits to eat. They eat any rabbits that are on the same space as they are. Both agents will have a `1/30` chance to create a new offspring, have random movements, and have a turn and forward radius of `50`.
+The rabbits will starve to death after `10` ticks if they cannot find grass to eat. They eat if they are standing on a green patch. If a grass patch is eaten, then the patch will turn black and will regrow after 100 ticks have passed. The foxes will starve to death after `50` ticks if they find no rabbits to eat. They eat any rabbits that are on the same space as they are. Both agents will have a `1/50` chance to create a new offspring, have random movements, and have a turn and forward radius of `50`.
 
 ## Usage
 If using the "PredatorPrey" program: Click on `Setup` to generate the environment and agents. Press `Go` to start the program and it will stop at 500 ticks. To run the program indefinitely, press `Go 🔁`. The sliders can be used to modify the configurations of the program.
