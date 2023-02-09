@@ -20,6 +20,8 @@ If using the "PredatorPrey(Scenario4)" program: Similar to "PredatorPrey" howeve
 
 In the model view, there is also a plot screen where the populations of both foxes and rabbits are plotted on a line graph to show the changes in population over time.
 
+To view the population changes, the count of each fox and rabbit is displayed in the Command Center. In addition, a plot is also used to track the changes in population through the use of line graphs.
+
 ## Authors
 - Caoile, Sean
 - Lim, Aurelius
